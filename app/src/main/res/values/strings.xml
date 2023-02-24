@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Labb_1</string>
+    <string name="btn_about">About</string>
+    <string name="btn_home">Home</string>
+    <string name="btn_login">Sign In</string>
+    <string name="btn_register">Sign Up</string>
+    <string name="tv_welcome">Upptäck Stockholm\'s mest besökta platser</string>
+    <string name="tv_headerAbout">About Us</string>
+    <string name="tv_signseeing">Vackraste platser</string>
+    <string name="restauranger">Restauranger</string>
+    <string name="tv_welcomeUser">Välkommen</string>
+    <string name="tv_user"> </string>
+    <string name="tv_about">Välkommen till Stockholms guide. Här hittar du bästa möjliga platser att besöka och njuta av på din fritid. </string>
+    <string name="enter_username">Enter username:</string>
+    <string name="enter_password">Enter password:</string>
+    <string name="museer">Museer</string>
+    <string name="parker">Parker</string>
+</resources>
